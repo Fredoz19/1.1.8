@@ -23,9 +23,9 @@ Journal = "transactions.rlp"
 Rejournal = 3600000000000
 PriceLimit = 1000000000
 PriceBump = 10
-AccountSlots = 51200
+AccountSlots = 512
 GlobalSlots = 250000
-AccountQueue = 25600
+AccountQueue = 256
 GlobalQueue = 50000
 Lifetime = 10800000000000
 
